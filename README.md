@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thehero12347
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on discord bot dev
+- 🌱 I’m currently learning linux and its fundamental
 - 📫 How to reach me email me thehero1234755@gmail.com
 
 <!---
